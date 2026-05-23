@@ -4,11 +4,11 @@ Nesta lista de exercícios, iremos continuar a resolução dos exercícios de al
 
 Segue o link do repositório GitHub com a resolução dos exercícios:
 # Repositório: https://github.com/wcrvieira/algoritmos_js.git
-1 - Média de 3 notas
-2 - Achando o quadrado de um número
-3 - Maior e menor de 3 números
-4 - Maiores e menores de idade
-7 - Vogais e consoantes
+- 1 - Média de 3 notas
+- 2 - Achando o quadrado de um número
+- 3 - Maior e menor de 3 números
+- 4 - Maiores e menores de idade
+- 7 - Vogais e consoantes
 
 # Alguns exercícios extras:
 - Par ou Ímpar: Receba um número e verifique se ele é par ou ímpar.
